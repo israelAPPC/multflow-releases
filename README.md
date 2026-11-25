@@ -26,6 +26,10 @@ Baixe sempre da **[última versão](../../releases/latest)**. Versões anteriore
 2. Execute e aponte para a pasta onde o MultFlow está instalado.
 3. Suas configurações e dados locais são preservados.
 
+## Acesso pela internet e pelo celular
+
+O acesso externo (pela internet ou pelo celular) só funciona enquanto **o servidor do banco de dados e o servidor Node (MultFlow) estiverem ligados**. Se a máquina servidora estiver desligada, em repouso, ou o MultFlow não estiver em execução, o acesso fica indisponível para todos.
+
 ## Observações
 
 - O Windows pode exibir o aviso do SmartScreen por se tratar de um instalador sem assinatura digital. Clique em **Mais informações › Executar assim mesmo**.
