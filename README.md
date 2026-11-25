@@ -1,6 +1,6 @@
 # MultFlow — Downloads
 
-Esta página reúne os instaladores do **MultFlow**, painel gerencial de vendas, financeiro e DRE para Windows.
+Essa página reúne o instalador e atualizador do **MultFlow**.
 
 ## Qual arquivo baixar?
 
